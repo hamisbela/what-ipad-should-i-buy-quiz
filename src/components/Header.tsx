@@ -14,7 +14,7 @@ export default function Header() {
           <div className="flex">
             <Link to="/" className="flex items-center gap-2">
               <Tablet className="text-blue-600" size={32} />
-              <span className="font-bold text-xl text-gray-900">What iPad Should I Buy? - Quiz</span>
+              <span className="font-bold text-xl text-gray-900">Which iPad Should I Buy? - Quiz</span>
             </Link>
           </div>
           
