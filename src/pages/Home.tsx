@@ -5,7 +5,7 @@ export default function Home() {
   return (
     <div>
       <section className="max-w-7xl mx-auto px-4 py-12">
-        <h1 className="text-4xl font-bold text-center mb-8">What iPad Should I Buy? - Quiz</h1>
+        <h1 className="text-4xl font-bold text-center mb-8">Which iPad Should I Buy? - Quiz</h1>
         <Quiz />
       </section>
 
@@ -13,14 +13,14 @@ export default function Home() {
         <div className="prose lg:prose-lg mx-auto">
           <div className="mb-8">
             <p className="text-lg">
-              If you're wondering, <strong>"What iPad should I buy?"</strong>, you're not alone! Choosing the perfect iPad can be overwhelming with several models and configurations available. From the versatile iPad Air to the powerful iPad Pro, finding the best device for your needs requires careful consideration. But don't worry – we've got you covered! Our interactive <strong>What iPad Should I Buy? Quiz</strong> will help you narrow down your choices and find the ideal iPad for your lifestyle.
+              If you're wondering, <strong>"Which iPad should I buy?"</strong>, you're not alone! Choosing the perfect iPad can be overwhelming with several models and configurations available. From the versatile iPad Air to the powerful iPad Pro, finding the best device for your needs requires careful consideration. But don't worry – we've got you covered! Our interactive <strong>Which iPad Should I Buy? Quiz</strong> will help you narrow down your choices and find the ideal iPad for your lifestyle.
             </p>
           </div>
 
           <div className="mb-8">
-            <h2 className="text-3xl font-bold text-gray-900 mb-4">Why Take the "What iPad Should I Buy?" Quiz?</h2>
+            <h2 className="text-3xl font-bold text-gray-900 mb-4">Why Take the "Which iPad Should I Buy?" Quiz?</h2>
             <p>
-              With multiple iPad models featuring different chips and capabilities, deciding on the right one can feel overwhelming. Whether you need an iPad for studying, digital art, content creation, or professional work, our <strong>What iPad Should I Buy? Quiz</strong> is designed to match you with an iPad that fits your workflow, budget, and performance requirements.
+              With multiple iPad models featuring different chips and capabilities, deciding on the right one can feel overwhelming. Whether you need an iPad for studying, digital art, content creation, or professional work, our <strong>Which iPad Should I Buy? Quiz</strong> is designed to match you with an iPad that fits your workflow, budget, and performance requirements.
             </p>
           </div>
 
@@ -46,7 +46,7 @@ export default function Home() {
           </div>
 
           <div className="mb-8">
-            <h2 className="text-3xl font-bold text-gray-900 mb-4">How the "What iPad Should I Buy?" Quiz Works</h2>
+            <h2 className="text-3xl font-bold text-gray-900 mb-4">How the "Which iPad Should I Buy?" Quiz Works</h2>
             <p>
               Taking our quiz is quick and easy! Simply answer a few questions about your tablet needs, preferred features, and budget, and we'll recommend the best iPads for you. Our recommendations are based on extensive research and real-world testing.
             </p>
@@ -65,14 +65,14 @@ export default function Home() {
           <div className="mb-8">
             <h2 className="text-3xl font-bold text-gray-900 mb-4">Why Trust Our iPad Recommendations?</h2>
             <p>
-              Our team consists of Apple experts and tech enthusiasts who stay up-to-date with the latest iPad models and features. We regularly update our <strong>What iPad Should I Buy? Quiz</strong> to include new models and capabilities, ensuring you get the most current recommendations.
+              Our team consists of Apple experts and tech enthusiasts who stay up-to-date with the latest iPad models and features. We regularly update our <strong>Which iPad Should I Buy? Quiz</strong> to include new models and capabilities, ensuring you get the most current recommendations.
             </p>
           </div>
 
           <div>
             <h2 className="text-3xl font-bold text-gray-900 mb-4">Ready to Find Your Perfect iPad?</h2>
             <p>
-              Don't waste hours researching – let our <strong>What iPad Should I Buy? Quiz</strong> guide you to the perfect device. Whether you're buying your first iPad or upgrading your current one, we'll help you make an informed decision.
+              Don't waste hours researching – let our <strong>Which iPad Should I Buy? Quiz</strong> guide you to the perfect device. Whether you're buying your first iPad or upgrading your current one, we'll help you make an informed decision.
             </p>
           </div>
         </div>
